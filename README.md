@@ -1,2 +1,2 @@
 # pythonprojects
-All the python projrcts made by me
+All the python projects made by me
